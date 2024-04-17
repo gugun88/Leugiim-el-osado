@@ -56,3 +56,9 @@ body {
     transparent 70%
   ); /*poner el borde de la imagen en transparente*/
 }
+.agradecimiento {
+  max-width: 50%;
+  margin: 40px;
+  font-size: 20px;
+  text-align: center;
+}
