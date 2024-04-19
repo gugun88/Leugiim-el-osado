@@ -38,12 +38,6 @@ body {
   font-size: 60px;
   margin-top: -40px;
 }
-.mencion {
-  text-align: center;
-  position: absolute;
-
-  bottom: 10px;
-}
 .boton {
   text-align: center;
   margin: 30px;
@@ -61,4 +55,12 @@ body {
   margin: 40px;
   font-size: 20px;
   text-align: center;
+}
+.footer a {
+  position: fixed;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  color: white;
 }
